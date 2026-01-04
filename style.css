@@ -2,7 +2,9 @@
     background-image: url(./images/header-page.jpg);
     width: 100%;
     height: 60vh;
+    background-repeat: no-repeat
 }
 html,body{
     overflow-x: hidden;
+
 }
